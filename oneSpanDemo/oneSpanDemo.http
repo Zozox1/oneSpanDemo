@@ -1,0 +1,6 @@
+@oneSpanDemo_HostAddress = http://localhost:5020
+
+GET {{oneSpanDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
